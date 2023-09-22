@@ -20,4 +20,7 @@ Destino de información:
 
 Se entregara un archivo con los datos transformados .
 
+Actualizacion:
+
+El dia de ayer trate de entregar un codigo que consegui en linea y no pude reparar un error, cambie totalmente mi codigo y escribi desde 0 un codigo, que aunque no es tan deslumbrante como el anterior, es un codigo que entiendo completamente y puedo presentarlo, agregarle mas funciones y arreglarlo en caso de cualqueir desperfecto. Pido disculpas por tratar de pensar que podia engañarlo  
 
