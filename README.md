@@ -10,7 +10,7 @@ El transmisor va tener la tarea de  transformar el contenido de texto a hexadeci
 
 Canal:
 
-El código simulará una conexion ethernet en el canal en el cual se le agregara ruido (cambio de datos) a la cadena hexadecimal
+El código simulará una conexion ethernet en el canal en el cual se le agregara ruido (cambio de datos) a la cadena hexadecimal. Si el caracter recibe ruido, se agregara un pequeño retraso, este retraso es elegible por el usuario
 
 Receptor:
 
