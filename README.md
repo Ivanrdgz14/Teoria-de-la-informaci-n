@@ -28,7 +28,7 @@ Actualizacion 2:
 
 Se le agrego otros 3 metodos de codificación 
 -HUFFMAN
--sHANON FANO
+-SHANON FANO
 -BINARIO
 
 
