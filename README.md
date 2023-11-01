@@ -24,3 +24,10 @@ Actualizacion:
 
 El dia de ayer trate de entregar un codigo que consegui en linea y no pude reparar un error, cambie totalmente mi codigo y escribi desde 0 un codigo, que aunque no es tan deslumbrante como el anterior, es un codigo que entiendo completamente y puedo presentarlo, agregarle mas funciones y arreglarlo en caso de cualqueir desperfecto. Pido disculpas por tratar de pensar que podia engañarlo  
 
+Actualizacion 2: 
+Se le agrego otros 3 metodos de codificación 
+-HUFFMAN
+-sHANON FANO
+-BINARIO
+
+Se le agrego un canal adaptativo que sera explicado acá:
